@@ -66,3 +66,9 @@ h3 {
   margin: 20px auto;
   border-radius: 5px;
 }
+
+footer {
+  background-color: #f5ec1b;
+  text-align: center;
+  padding: 20px;
+}
