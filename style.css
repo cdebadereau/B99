@@ -2,6 +2,13 @@ body {
   background-color: #c0c7cf;
 }
 
+nav ul {
+  list-style: none;
+  color: #fff;
+  padding: 0 auto;
+  margin: 0 auto;
+}
+
 .container {
   max-width: 900px;
   margin: 30px auto;
